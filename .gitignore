@@ -1,0 +1,10 @@
+
+build\.xml
+
+build/classes/
+
+manifest\.mf
+
+nbproject/build-impl\.xml
+
+nbproject/
